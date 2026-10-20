@@ -26,7 +26,7 @@ if the original links rot.
 | 2023 | Python Refresher | AI Saturdays Lagos (AI6), Cohort 8 | [notebook, video](2023-ai-saturdays-python-refresher/) |
 | 2023 | HuggingFace and You | Open Source Community Africa Festival (OSCAFEST); IndabaX Nigeria 2023, Thomas Adewumi University | [slides](2023-huggingface-and-you/) |
 | 2022 | Open Science: Building Models Like We Build Open-Source Software | EuroPython, Dublin; Berlin Buzzwords | [slides, video](2022-open-science-models-like-oss/) |
-| 2022 | Building a Sign-to-Speech Prototype | PyConDE & PyData Berlin; Python Web Conf; Build Stuff; PyData Global (2021); Lanfrica Talks; Masakhane Speaker Series; IJCAI (demo); Deep Learning Indaba Research-in-Africa Showcase; NeurIPS ML4D (2021); ML Collective Research Jam (×3, 2021) | [slides, videos](2022-sign-to-speech/) |
+| 2022 | Building a Sign-to-Speech Prototype | IJCAI (demo); NeurIPS ML4D (2021); PyConDE & PyData Berlin; Python Web Conf; Build Stuff; PyData Global (2021); Lanfrica Talks; Masakhane Speaker Series; Deep Learning Indaba Research-in-Africa Showcase; ML Collective Research Jam (×3, 2021) | [slides, videos](2022-sign-to-speech/) |
 | 2022 | Independent research *(panel)* | Cohere For AI (C4AI) | [video](2022-independent-research-panel/) |
 | 2022 | Minimizing Communication Costs in Decentralized Federated Learning | ML Efficiency workshop, Deep Learning Indaba, Tunisia | [slides](2022-decentralized-federated-learning/) |
 | 2022 | The Path to ML Mastery | DataFest Africa; GDG Abeokuta DevFest | [slides](2022-path-to-ml-mastery/) |
