@@ -15,4 +15,5 @@ EuroPython 2021; PyCon APAC 2021
 
 - [Udacity self-driving demo app](https://github.com/streamlit/demo-self-driving) — by the Streamlit team
 - [Streamlit gallery](https://streamlit.io/gallery)
-- Housing rent pricing app by Moyosola — the original Heroku deployment is no longer online
+- A housing rent pricing app built by a community member — the original Heroku deployment is no
+  longer online (the old per-venue notes credited it inconsistently, so no name is given here)
