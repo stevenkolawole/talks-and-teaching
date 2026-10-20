@@ -20,11 +20,11 @@ if the original links rot.
 | 2026 | Model Compression *(guest lecture)* | CMU 10-718: ML in Practice | [slides](2026-model-compression/) |
 | 2025 | The Research You Are Not Doing | CMU Africa Research Club *(invited)* | [slides](2025-cmu-africa-research-club/) |
 | 2025 | Crafting a Strong SOP, CV & Finding PhD Supervisors | CMU Africa Research Club *(invited)* | [slides](2025-cmu-africa-research-club/) |
-| 2025 | What's Next After an Unsuccessful Application? *(panel, ×2)* | Black in AI, Emerging Leaders in AI — Grad Prep *(invited)* | [notes](2024-black-in-ai-elai-grad-prep/) |
+| 2025 | What's Next After an Unsuccessful Application? *(panel)* | Black in AI, Emerging Leaders in AI — Grad Prep *(invited)* | [notes](2024-black-in-ai-elai-grad-prep/) |
 | 2024 | Final Push to Submit *(panel)* | Black in AI, Emerging Leaders in AI — Grad Prep *(invited)* | [notes](2024-black-in-ai-elai-grad-prep/) |
 | 2024 | Low-Resource LLMs *(practical)* | Deep Learning Indaba, Senegal | [notebooks](2024-low-resource-llms/) |
 | 2023 | Python Refresher | AI Saturdays Lagos (AI6), Cohort 8 *(invited lecturer)* | [notebook, video](2023-ai-saturdays-python-refresher/) |
-| 2023 | HuggingFace and You | IndabaX Nigeria 2023, Thomas Adewumi University; Open Source Community Africa Festival (OSCAFEST) | [slides](2023-huggingface-and-you/) |
+| 2023 | HuggingFace and You | Open Source Community Africa Festival (OSCAFEST); IndabaX Nigeria 2023, Thomas Adewumi University | [slides](2023-huggingface-and-you/) |
 | 2022 | Open Science: Building Models Like We Build Open-Source Software | EuroPython, Dublin; Berlin Buzzwords | [slides, video](2022-open-science-models-like-oss/) |
 | 2022 | Building a Sign-to-Speech Prototype | PyConDE & PyData Berlin; Python Web Conf; PyData Global (2021); Lanfrica Talks *(invited)*; Masakhane Speaker Series *(invited)*; IJCAI (demo); Deep Learning Indaba Research-in-Africa Showcase; NeurIPS ML4D (2021) | [videos](2022-sign-to-speech/) |
 | 2022 | Independent research *(panel)* | Cohere For AI (C4AI) *(invited)* | [video](2022-independent-research-panel/) |
