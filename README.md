@@ -9,7 +9,7 @@ venue**, with every venue listed inside. Slide decks are archived here as PDFs s
 if the original links rot.
 
 **Licensing:** slides, notes, and writing are [CC BY 4.0](LICENSE); code and notebooks are
-[MIT](LICENSE-CODE). Reuse, adapt, and teach from any of it — attribution is all I ask.
+[MIT](LICENSE-CODE). Reuse, adapt, and teach from any of it.
 
 ## Index
 
