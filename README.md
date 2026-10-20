@@ -26,13 +26,13 @@ if the original links rot.
 | 2023 | Python Refresher | AI Saturdays Lagos (AI6), Cohort 8 *(invited lecturer)* | [notebook, video](2023-ai-saturdays-python-refresher/) |
 | 2023 | HuggingFace and You | Open Source Community Africa Festival (OSCAFEST); IndabaX Nigeria 2023, Thomas Adewumi University | [slides](2023-huggingface-and-you/) |
 | 2022 | Open Science: Building Models Like We Build Open-Source Software | EuroPython, Dublin; Berlin Buzzwords | [slides, video](2022-open-science-models-like-oss/) |
-| 2022 | Building a Sign-to-Speech Prototype | PyConDE & PyData Berlin; Python Web Conf; Build Stuff; PyData Global (2021); Lanfrica Talks *(invited)*; Masakhane Speaker Series *(invited)*; IJCAI (demo); Deep Learning Indaba Research-in-Africa Showcase; NeurIPS ML4D (2021) | [videos](2022-sign-to-speech/) |
+| 2022 | Building a Sign-to-Speech Prototype | PyConDE & PyData Berlin; Python Web Conf; Build Stuff; PyData Global (2021); Lanfrica Talks *(invited)*; Masakhane Speaker Series *(invited)*; IJCAI (demo); Deep Learning Indaba Research-in-Africa Showcase; NeurIPS ML4D (2021); ML Collective Research Jam 3 (2021) | [slides, videos](2022-sign-to-speech/) |
 | 2022 | Independent research *(panel)* | Cohere For AI (C4AI) *(invited)* | [video](2022-independent-research-panel/) |
 | 2022 | Minimizing Communication Costs in Decentralized Federated Learning | ML Efficiency workshop, Deep Learning Indaba, Tunisia | [slides](2022-decentralized-federated-learning/) |
 | 2022 | The Path to ML Mastery | DataFest Africa; GDG Abeokuta DevFest *(invited)* | [slides](2022-path-to-ml-mastery/) |
 | 2022 | African Sign Language Translation *(Ideathon winner)* | Deep Learning Indaba Ideathon | [slides](2022-african-sign-language-ideathon/) |
 | 2020 | Streamlit: The Fastest Way to Build Data Apps | PyCon Africa 2020; PyData Global 2020; Python Web Conf 2021; Conf42 Python '21; EuroPython 2021; PyCon APAC 2021 | [slides, code, video](2020-streamlit-data-apps/) |
 
-Also spoke at three ML Collective Research Jams in 2021; no materials archived for those.
+Also spoke at two further ML Collective Research Jams in 2021; no materials archived for those.
 
 Talk recordings are also collected on [PyVideo](https://pyvideo.org/speaker/steven-kolawole.html).
