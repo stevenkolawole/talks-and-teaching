@@ -4,7 +4,7 @@ A full-day Python refresher opening AI Saturdays Lagos Cohort 8: syntax, functio
 conditionals, lists, loops and comprehensions, sorting, strings and dictionaries, external
 libraries, and mathematics with Python.
 
-**Venue:** [AI Saturdays Lagos (AI6)](https://github.com/AISaturdaysLagos/cohort_structure) Cohort 8 — 5 August 2023 *(invited lecturer)*
+**Venue:** [AI Saturdays Lagos (AI6)](https://github.com/AISaturdaysLagos/cohort_structure) Cohort 8 — 5 August 2023
 
 **Materials:**
 - [python-refresher.ipynb](python-refresher.ipynb) — 140 cells

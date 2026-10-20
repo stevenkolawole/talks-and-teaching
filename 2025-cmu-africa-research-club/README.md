@@ -1,8 +1,8 @@
 # CMU Africa Research Club — Two Talks
 
-Two invited talks to the CMU Africa Research Club.
+Two talks to the CMU Africa Research Club.
 
-**Venue:** CMU Africa Research Club, 2025 *(invited, ×2)*
+**Venue:** CMU Africa Research Club, 2025
 
 ## The Research You Are Not Doing
 

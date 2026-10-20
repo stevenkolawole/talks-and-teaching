@@ -3,8 +3,8 @@
 Building a real-time sign-to-speech translation prototype for Nigerian Sign Language with
 TensorFlow, PyTorch, and DeepStack — and what it takes to make it work in sub-Saharan Africa.
 
-**Venues:** PyConDE & PyData Berlin 2022; Python Web Conf 2022; Build Stuff 2022; PyData Global 2021; Lanfrica Talks *(invited)*;
-Masakhane Speaker Series *(invited)*; IJCAI 2022 AI-for-Social-Good demo; Deep Learning Indaba 2022
+**Venues:** PyConDE & PyData Berlin 2022; Python Web Conf 2022; Build Stuff 2022; PyData Global 2021; Lanfrica Talks;
+Masakhane Speaker Series; IJCAI 2022 AI-for-Social-Good demo; Deep Learning Indaba 2022
 Research-in-Africa Showcase; NeurIPS ML4D 2021; ML Collective Research Jam 3 (2021)
 
 **Materials:**
